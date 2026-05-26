@@ -106,22 +106,6 @@ Streams live bid events and triggers fraud alerts dynamically.
 
 ---
 
-## ⚙️ Installation
-
-```bash
-# Clone repository
-git clone https://github.com/Akritimehta01/shillbid-ai.git
-
-# Navigate to project
-cd shillbid-ai
-
-# Install backend dependencies
-pip install -r requirements.txt
-
-# Run backend server
-uvicorn app.main:app --reload
-```
-
 Frontend setup:
 
 ```bash
